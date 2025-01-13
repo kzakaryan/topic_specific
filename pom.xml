@@ -16,6 +16,7 @@
         <module>lambdafunctions</module>
         <module>sumofsquares</module>
         <module>crazylambdas</module>
+        <module>crazystreams</module>
     </modules>
 
     <properties>
