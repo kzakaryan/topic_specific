@@ -17,6 +17,8 @@
         <module>sumofsquares</module>
         <module>crazylambdas</module>
         <module>crazystreams</module>
+        <module>crazyoptionals</module>
+        <module>funprimenumbers</module>
     </modules>
 
     <properties>
