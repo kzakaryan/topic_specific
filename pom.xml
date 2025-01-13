@@ -13,6 +13,7 @@
         <module>hellogenerics</module>
         <module>crazygenerics</module>
         <module>heterogenousmax</module>
+        <module>lambdafunctions</module>
     </modules>
 
     <properties>
