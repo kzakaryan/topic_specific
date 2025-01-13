@@ -15,6 +15,7 @@
         <module>heterogenousmax</module>
         <module>lambdafunctions</module>
         <module>sumofsquares</module>
+        <module>crazylambdas</module>
     </modules>
 
     <properties>
