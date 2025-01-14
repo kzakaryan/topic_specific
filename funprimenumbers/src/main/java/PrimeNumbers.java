@@ -4,14 +4,6 @@ import java.util.function.IntConsumer;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**
- * {@link PrimeNumbers} provides an API to work with prime numbers. The implementation is based on the
- * {@link IntStream} of prime numbers. That stream is used in all public methods on this class.
- * <p>
- * See {@link OOSumOfPrimes} for a reference
- *
- * @author Taras Boychuk
- */
 public class PrimeNumbers {
     private PrimeNumbers() {
     }

@@ -1,11 +1,3 @@
-/**
- * An util class that provides a factory method for creating an instance of a {@link FunctionMap} filled with a list
- * of functions.
- * <p>
- * <p>
- *
- * @author Taras Boychuk
- */
 public class Functions {
     private Functions() {
     }

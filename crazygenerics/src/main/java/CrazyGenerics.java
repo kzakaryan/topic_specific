@@ -5,21 +5,6 @@ import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.StreamSupport;
 
-/**
- * {@link CrazyGenerics} is an exercise class. It consists of classes, interfaces and methods that should be updated
- * using generics.
- * <p>
- * TODO: go step by step from top to bottom. Read the java doc, write code and run CrazyGenericsTest to verify your impl
- * <p>
- * Hint: in some cases you will need to refactor the code, like replace {@link Object} with a generic type. In order
- * cases you will need to add new fields, create new classes, or add new methods. Always try to read java doc and update
- * the code according to it.
- * <p><p>
- * <strong>TODO: to get the most out of your learning, <a href="https://www.bobocode.com">visit our website</a></strong>
- * <p>
- *
- * @author Taras Boychuk
- */
 public class CrazyGenerics {
     /**
      * {@link Sourced} is a container class that allows storing any object along with the source of that data.

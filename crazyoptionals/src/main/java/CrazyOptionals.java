@@ -1,9 +1,3 @@
-
-
-
-import com.bobocode.model.CreditAccount;
-import com.bobocode.util.ExerciseNotCompletedException;
-
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.math.BigDecimal;
@@ -11,18 +5,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.OptionalDouble;
 
-/**
- * {@link CrazyOptionals} is an exercise class. Each method represents some operation with a {@link Account} and
- * should be implemented using Optional API. Every method that is not implemented yet throws
- * {@link ExerciseNotCompletedException}.
- * <p>
- * TODO: remove exception and implement each method of this class using Optional API
- * <p><p>
- * <strong>TODO: to get the most out of your learning, <a href="https://www.bobocode.com">visit our website</a></strong>
- * <p>
- *
- * @author Taras Boychuk
- */
 public class CrazyOptionals {
 
     /**
